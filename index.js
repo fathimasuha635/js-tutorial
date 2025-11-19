@@ -1,4 +1,12 @@
 // types of variables
-var name = "suha"
-let name = "ghy"
-const name = "sdg"
+// var name = "suha"
+// let name = "ghy"
+// const name = "sdg"
+
+
+
+// arithmetic operations
+const a =2
+const b= 4
+console.log(a/b)
+// + - * /
